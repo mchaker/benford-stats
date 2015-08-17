@@ -13,4 +13,6 @@ Check how closely a data set conforms to Benford's Law
 # Overview of other project stats
 | Design model | Project classification | Intended for use by others? |
 |--------------|------------------------|-----------------------------|
-| Command-line utility (stdin/stdout) with an optional GUI wrapper | Academic messing around | Not yet |
+| Command-line utility (stdin/stdout) with an optional GUI wrapper | [Academic messing around][1] | Not yet |
+
+[1]: https://news.ycombinator.com/item?id=9209886
