@@ -15,4 +15,4 @@ Check how closely a data set conforms to Benford's Law
 |--------------|------------------------|-----------------------------|
 | Command-line utility (stdin/stdout) with an optional GUI wrapper | [Academic messing around][1] | Not yet |
 
-[1]: https://archive.is/lUhqp
+[1]: https://archive.is/lUhqp#selection-137.0-137.119
